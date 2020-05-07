@@ -1,6 +1,6 @@
 <?php
 
-namespace richardfan\sortable;
+namespace juozasl\sortable;
 
 use yii\web\AssetBundle;
 

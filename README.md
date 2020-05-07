@@ -1,4 +1,4 @@
-# yii2-sortable-gridview
+# yii2-sortable-gridview (fork of richardfan)
 
 [![Latest Stable Version](https://poser.pugx.org/richardfan1126/yii2-sortable-gridview/v/stable)](https://packagist.org/packages/richardfan1126/yii2-sortable-gridview)
 [![Total Downloads](https://poser.pugx.org/richardfan1126/yii2-sortable-gridview/downloads)](https://packagist.org/packages/richardfan1126/yii2-sortable-gridview)

@@ -1,5 +1,5 @@
 {
-	"name" : "richardfan1126/yii2-sortable-gridview",
+	"name" : "juozasl/yii2-sortable-gridview",
 	"description" : "Sortable GridView for Yii2",
 	"type" : "yii2-extension",
 	"license" : "MIT",
@@ -7,6 +7,10 @@
 			"name" : "Richard Fan",
 			"email" : "richardfan1126@gmail.com",
 			"homepage" : "https://fancy-digital.com"
+		},
+		{
+			"name" : "Juozas Lizdenis",
+			"email" : "juzis26@gmail.com",
 		}
 	],
 	"support" : {
@@ -16,7 +20,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"richardfan\\sortable\\" : ""
+			"juozasl\\sortable\\" : ""
 		}
 	},
 	"keywords" : [
